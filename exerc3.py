@@ -1,3 +1,6 @@
+# Gustavo da Encarnação Rodrigues 20232075 #
+# João Pedro Mendes Noguiera 202311204 #
+
 import pygame
 import sys
 import copy
